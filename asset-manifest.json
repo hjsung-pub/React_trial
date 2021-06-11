@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React_trial/phone-book/static/css/main.530c8899.chunk.css",
-    "main.js": "/React_trial/phone-book/static/js/main.8c166dc7.chunk.js",
-    "main.js.map": "/React_trial/phone-book/static/js/main.8c166dc7.chunk.js.map",
-    "runtime-main.js": "/React_trial/phone-book/static/js/runtime-main.a7c87449.js",
-    "runtime-main.js.map": "/React_trial/phone-book/static/js/runtime-main.a7c87449.js.map",
-    "static/js/2.a0d66fd2.chunk.js": "/React_trial/phone-book/static/js/2.a0d66fd2.chunk.js",
-    "static/js/2.a0d66fd2.chunk.js.map": "/React_trial/phone-book/static/js/2.a0d66fd2.chunk.js.map",
-    "static/js/3.97c7af83.chunk.js": "/React_trial/phone-book/static/js/3.97c7af83.chunk.js",
-    "static/js/3.97c7af83.chunk.js.map": "/React_trial/phone-book/static/js/3.97c7af83.chunk.js.map",
-    "index.html": "/React_trial/phone-book/index.html",
-    "static/css/main.530c8899.chunk.css.map": "/React_trial/phone-book/static/css/main.530c8899.chunk.css.map",
-    "static/js/2.a0d66fd2.chunk.js.LICENSE.txt": "/React_trial/phone-book/static/js/2.a0d66fd2.chunk.js.LICENSE.txt"
+    "main.css": "/React_trial/static/css/main.530c8899.chunk.css",
+    "main.js": "/React_trial/static/js/main.8c166dc7.chunk.js",
+    "main.js.map": "/React_trial/static/js/main.8c166dc7.chunk.js.map",
+    "runtime-main.js": "/React_trial/static/js/runtime-main.8187c811.js",
+    "runtime-main.js.map": "/React_trial/static/js/runtime-main.8187c811.js.map",
+    "static/js/2.a0d66fd2.chunk.js": "/React_trial/static/js/2.a0d66fd2.chunk.js",
+    "static/js/2.a0d66fd2.chunk.js.map": "/React_trial/static/js/2.a0d66fd2.chunk.js.map",
+    "static/js/3.97c7af83.chunk.js": "/React_trial/static/js/3.97c7af83.chunk.js",
+    "static/js/3.97c7af83.chunk.js.map": "/React_trial/static/js/3.97c7af83.chunk.js.map",
+    "index.html": "/React_trial/index.html",
+    "static/css/main.530c8899.chunk.css.map": "/React_trial/static/css/main.530c8899.chunk.css.map",
+    "static/js/2.a0d66fd2.chunk.js.LICENSE.txt": "/React_trial/static/js/2.a0d66fd2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7c87449.js",
+    "static/js/runtime-main.8187c811.js",
     "static/js/2.a0d66fd2.chunk.js",
     "static/css/main.530c8899.chunk.css",
     "static/js/main.8c166dc7.chunk.js"
